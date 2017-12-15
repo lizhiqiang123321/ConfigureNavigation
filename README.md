@@ -71,7 +71,7 @@
 
 
 
-> # 3 实例化NavigationConfigServer对象
+> # 3 在项目中实例化com.sample.NavigationConfigServer对象
 
 > # 4 在网页中更改数据
 
